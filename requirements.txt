@@ -1,2 +1,3 @@
 socket
 threading
+python-dotenv
